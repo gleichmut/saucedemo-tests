@@ -29,7 +29,7 @@ gradlew.bat tasks
 ```
 Установите Allure Commandline и добавьте его в PATH.
 
-
+  
 3. Запуск тестов
 
 ```bat
