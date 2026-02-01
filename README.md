@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
 
 ```bat
-git clone <URL_репозитория>
+git clone https://github.com/gleichmut/saucedemo-tests.git
 cd SauceDemo
 ```
 
